@@ -1,7 +1,7 @@
 <template>
   <div>
     Hello {{ name }} 
-    <img src="./image.png"></img>
+    <img src="./images/image.png"></img>
 
   </div>
 </template>
