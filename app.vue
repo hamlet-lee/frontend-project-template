@@ -1,5 +1,9 @@
 <template>
-  <div>Hello {{ name }} </div>
+  <div>
+    Hello {{ name }} 
+    <img src="./image.png"></img>
+
+  </div>
 </template>
 <script>
   export default {
