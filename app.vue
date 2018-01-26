@@ -2,7 +2,7 @@
   <div>
     Hello {{ name }} 
     <img src="./images/image.png"></img>
-
+	<router-view></router-view>
   </div>
 </template>
 <script>
